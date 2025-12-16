@@ -1,4 +1,5 @@
-A selection of Discord snippets for importing into Vencord from [my config](https://rdf1337.xyz/discord-quests).
+> [!NOTE]
+> A part of my [Discord Vencord Config](https://rdf1337.xyz/discord-vencord) for importing custom css into [Vencord](https://vencord.dev/).
 
 ## Red mic-mute icon
 **Preview:**
