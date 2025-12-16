@@ -1,0 +1,32 @@
+.wrapper__6e9f8 {
+  border-radius: 18px;
+}
+
+.wrapper__6e9f8 .childWrapper__6e9f8 {
+  border-radius: 18px;
+}
+
+.circleIconButton__5bc7e {
+  border-radius: 18px !important;
+}
+
+.childWrapper__6e9f8 rect {
+  rx: 18px;
+}
+
+.listItem__650eb .wrapper_cc5dd2 {
+  border-radius: 18px;
+}
+
+.listItem__650eb .wrapper_cc5dd2 .icon__11cf1 {
+  border-radius: 18px;
+}
+
+.dragInner__66313 {
+  border-radius: 18px;
+}
+
+.folder__48112,
+.folderIconWrapper__48112 {
+  border-radius: 18px !important;
+}

@@ -1,0 +1,21 @@
+.theme-dark .membersGroup_c8ffbb {
+  color: hsla(0, 7%, 86%, 0.55);
+}
+.membersGroup_c8ffbb {
+  text-align: center;
+  font-size: 0.75em;
+  color: #101010;
+  position: relative;
+}
+.membersGroup_c8ffbb::after {
+  position: absolute;
+  content: "";
+  width: 100%;
+  height: 1px;
+  left: 0%;
+  bottom: 0;
+}
+.theme-dark .membersGroup_c8ffbb::after {
+  background-image: none;
+  background-color: rgb(48, 49, 55);
+}

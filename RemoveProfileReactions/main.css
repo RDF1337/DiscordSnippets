@@ -1,0 +1,4 @@
+[class*="statusPopover"],
+[class*="avatarPopover__"] {
+  display: none;
+}
