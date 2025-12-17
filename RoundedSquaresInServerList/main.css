@@ -1,24 +1,24 @@
-.wrapper__6e9f8 {
+._6e9f8dce4cc18de3-wrapper {
   border-radius: 18px;
 }
 
-.wrapper__6e9f8 .childWrapper__6e9f8 {
+._6e9f8dce4cc18de3-wrapper ._6e9f8dce4cc18de3-childWrapper {
   border-radius: 18px;
 }
 
-.circleIconButton__5bc7e {
+._5bc7ed9d4097f6b5-circleIconButton {
   border-radius: 18px !important;
 }
 
-.childWrapper__6e9f8 rect {
+._6e9f8dce4cc18de3-childWrapper rect {
   rx: 18px;
 }
 
-.listItem__650eb .wrapper_cc5dd2 {
+._650eb104245d257b-listItem .cc5dd25190031396-wrapper {
   border-radius: 18px;
 }
 
-.listItem__650eb .wrapper_cc5dd2 .icon__11cf1 {
+._650eb104245d257b-listItem .cc5dd25190031396-wrapper .icon__11cf1 {
   border-radius: 18px;
 }
 
@@ -26,7 +26,7 @@
   border-radius: 18px;
 }
 
-.folder__48112,
-.folderIconWrapper__48112 {
+.b18fe29d6fe8dd82-hiddenVisually,
+._48112cbe77dc5022-folderPreviewWrapper {
   border-radius: 18px !important;
 }
