@@ -1,13 +1,13 @@
-.theme-dark .membersGroup_c8ffbb {
+.theme-dark .c8ffbb79449f399c-membersGroup {
   color: hsla(0, 7%, 86%, 0.55);
 }
-.membersGroup_c8ffbb {
+.c8ffbb79449f399c-membersGroup {
   text-align: center;
   font-size: 0.75em;
   color: #101010;
   position: relative;
 }
-.membersGroup_c8ffbb::after {
+.c8ffbb79449f399c-membersGroup::after {
   position: absolute;
   content: "";
   width: 100%;
@@ -15,7 +15,7 @@
   left: 0%;
   bottom: 0;
 }
-.theme-dark .membersGroup_c8ffbb::after {
+.theme-dark .c8ffbb79449f399c-membersGroup::after {
   background-image: none;
   background-color: rgb(48, 49, 55);
 }
