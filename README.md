@@ -4,7 +4,7 @@
 ## Red mic-mute icon
 **Preview:**
 
-![Red mic-mute icon Preview](./previews/1.png)
+![Red mic-mute icon Preview](./__previews/1.png)
 
 **Code:**
 
@@ -14,7 +14,7 @@
 ## Right panel role line
 **Preview:**
 
-![Right panel role line Preview](./previews/2.png)
+![Right panel role line Preview](./__previews/2.png)
 
 **Code:**
 
@@ -36,7 +36,7 @@
 ## Disable discovery button
 **Preview:**
 
-![Disable discovery button Preview](./previews/3.png)
+![Disable discovery button Preview](./__previews/3.png)
 
 **Code:**
 
@@ -46,7 +46,7 @@
 ## TinyStatusArea
 **Preview:**
 
-![TinyStatusArea Preview](./previews/4.png)
+![TinyStatusArea Preview](./__previews/4.png)
 
 **Code:**
 
@@ -56,7 +56,7 @@
 ## DisableActivity
 **Preview:**
 
-![DisableActivity Preview](./previews/5.png)
+![DisableActivity Preview](./__previews/5.png)
 
 **Code:**
 
@@ -66,7 +66,7 @@
 ## RemoveQuickReactBar
 **Preview:**
 
-![RemoveQuickReactBar Preview](./previews/6.png)
+![RemoveQuickReactBar Preview](./__previews/6.png)
 
 **Code:**
 
@@ -76,7 +76,7 @@
 ## CollapseIconPositionFix
 **Preview:**
 
-![CollapseIconPositionFix Preview](./previews/7.png)
+![CollapseIconPositionFix Preview](./__previews/7.png)
 
 **Code:**
 
@@ -92,7 +92,7 @@
 ## CapchaInvertedColors
 **Preview:**
 
-![CapchaInvertedColors Preview](./previews/8.png)
+![CapchaInvertedColors Preview](./__previews/8.png)
 
 **Code:**
 
