@@ -9,7 +9,7 @@
 **Code:**
 
 ```css
-@import url("https://raw.githubusercontent.com/RDF1337/DiscordSnippets/refs/heads/main/RedMuteMicIcon/main.css");
+@import url("https://rdf1337.github.io/DiscordSnippets/RedMuteMicIcon/main.css");
 ```
 ## Right panel role line
 **Preview:**
@@ -19,19 +19,19 @@
 **Code:**
 
 ```css
-@import url("https://raw.githubusercontent.com/RDF1337/DiscordSnippets/refs/heads/main/RightPanelRoleLine/main.css");
+@import url("https://rdf1337.github.io/DiscordSnippets/RightPanelRoleLine/main.css");
 ```
 ## Clear client title
 **Code:**
 
 ```css
-@import url("https://raw.githubusercontent.com/RDF1337/DiscordSnippets/refs/heads/main/ClientTitle/main.css");
+@import url("https://rdf1337.github.io/DiscordSnippets/ClientTitle/main.css");
 ```
 ## Read all button animation
 **Code:**
 
 ```css
-@import url("https://raw.githubusercontent.com/RDF1337/DiscordSnippets/refs/heads/main/ReadAllBtnAnimation/main.css");
+@import url("https://rdf1337.github.io/DiscordSnippets/ReadAllBtnAnimation/main.css");
 ```
 ## Disable discovery button
 **Preview:**
@@ -41,7 +41,7 @@
 **Code:**
 
 ```css
-@import url("https://raw.githubusercontent.com/RDF1337/DiscordSnippets/refs/heads/main/DisableDiscoveryBtn/main.css");
+@import url("https://rdf1337.github.io/DiscordSnippets/DisableDiscoveryBtn/main.css");
 ```
 ## TinyStatusArea
 **Preview:**
@@ -51,7 +51,7 @@
 **Code:**
 
 ```css
-@import url("https://raw.githubusercontent.com/RDF1337/DiscordSnippets/refs/heads/main/TinyStatusArea/main.css");
+@import url("https://rdf1337.github.io/DiscordSnippets/TinyStatusArea/main.css");
 ```
 ## DisableActivity
 **Preview:**
@@ -61,7 +61,7 @@
 **Code:**
 
 ```css
-@import url("https://raw.githubusercontent.com/RDF1337/DiscordSnippets/refs/heads/main/DisableActivity/main.css");
+@import url("https://rdf1337.github.io/DiscordSnippets/DisableActivity/main.css");
 ```
 ## RemoveQuickReactBar
 **Preview:**
@@ -71,7 +71,7 @@
 **Code:**
 
 ```css
-@import url("https://raw.githubusercontent.com/RDF1337/DiscordSnippets/refs/heads/main/RemoveQuickReactBar/main.css");
+@import url("https://rdf1337.github.io/DiscordSnippets/RemoveQuickReactBar/main.css");
 ```
 ## CollapseIconPositionFix
 **Preview:**
@@ -81,13 +81,13 @@
 **Code:**
 
 ```css
-@import url("https://raw.githubusercontent.com/RDF1337/DiscordSnippets/refs/heads/main/CollapseIconPositionFix/main.css");
+@import url("https://rdf1337.github.io/DiscordSnippets/CollapseIconPositionFix/main.css");
 ```
 ## RemoveProfileReactions
 **Code:**
 
 ```css
-@import url("https://raw.githubusercontent.com/RDF1337/DiscordSnippets/refs/heads/main/RemoveProfileReactions/main.css");
+@import url("https://rdf1337.github.io/DiscordSnippets/RemoveProfileReactions/main.css");
 ```
 ## CapchaInvertedColors
 **Preview:**
@@ -97,5 +97,5 @@
 **Code:**
 
 ```css
-@import url("https://raw.githubusercontent.com/RDF1337/DiscordSnippets/refs/heads/main/CapchaInvertedColors/main.css");
+@import url("https://rdf1337.github.io/DiscordSnippets/CapchaInvertedColors/main.css");
 ```
