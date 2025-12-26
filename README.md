@@ -99,3 +99,14 @@
 ```css
 @import url("https://rdf1337.github.io/DiscordSnippets/CapchaInvertedColors/main.css");
 ```
+
+## RoundedSquaresInServerList
+**Preview:**
+
+![RoundedSquaresInServerList Preview](./__previews/9.png)
+
+**Code:**
+
+```css
+@import url("https://rdf1337.github.io/DiscordSnippets/RoundedSquaresInServerList/main.css");
+```
