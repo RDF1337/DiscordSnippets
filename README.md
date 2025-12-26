@@ -110,3 +110,19 @@
 ```css
 @import url("https://rdf1337.github.io/DiscordSnippets/RoundedSquaresInServerList/main.css");
 ```
+---
+## All in One to copy
+```css
+@import url("https://rdf1337.github.io/DiscordSnippets/CapchaInvertedColors/main.css");
+@import url("https://rdf1337.github.io/DiscordSnippets/ClientTitle/main.css");
+@import url("https://rdf1337.github.io/DiscordSnippets/CollapseIconPositionFix/main.css");
+@import url("https://rdf1337.github.io/DiscordSnippets/DisableActivity/main.css");
+@import url("https://rdf1337.github.io/DiscordSnippets/DisableDiscoveryBtn/main.css");
+@import url("https://rdf1337.github.io/DiscordSnippets/ReadAllBtnAnimation/main.css");
+@import url("https://rdf1337.github.io/DiscordSnippets/RedMuteMicIcon/main.css");
+@import url("https://rdf1337.github.io/DiscordSnippets/RemoveProfileReactions/main.css");
+@import url("https://rdf1337.github.io/DiscordSnippets/RemoveQuickReactBar/main.css");
+@import url("https://rdf1337.github.io/DiscordSnippets/RightPanelRoleLine/main.css");
+@import url("https://rdf1337.github.io/DiscordSnippets/RoundedSquaresInServerList/main.css");
+@import url("https://rdf1337.github.io/DiscordSnippets/TinyStatusArea/main.css");
+```
