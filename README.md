@@ -111,7 +111,7 @@
 @import url("https://rdf1337.github.io/DiscordSnippets/RoundedSquaresInServerList/main.css");
 ```
 
-## DirectMessagesIcon
+## CustomDirectMessagesIcon
 **Preview:**
 
 ![DirectMessagesIcon Preview](./__previews/10.png)
@@ -123,6 +123,17 @@
 :root {
   --dm-icon-url: url("https://example.com/picture.png"); /* Replace with your image URL */
 }
+```
+
+## VoicePanelNoChevrons
+**Preview:**
+
+![DirectMessagesIcon Preview](./__previews/11.png)
+
+**Code:**
+
+```css
+@import url("https://rdf1337.github.io/DiscordSnippets/VoicePanelNoChevrons/main.css");
 ```
 ---
 ## All in One to copy
@@ -144,4 +155,5 @@
 :root {
   --dm-icon-url: url("https://example.com/picture.png"); /* Replace with your image URL */
 }
+@import url("https://rdf1337.github.io/DiscordSnippets/VoicePanelNoChevrons/main.css");
 ```
