@@ -111,10 +111,10 @@
 @import url("https://rdf1337.github.io/DiscordSnippets/RoundedSquaresInServerList/main.css");
 ```
 
-## CustomDirectMessagesIcon
+## DirectMessagesIcon
 **Preview:**
 
-![CustomDirectMessagesIcon Preview](./__previews/10.png)
+![DirectMessagesIcon Preview](./__previews/10.png)
 
 **Code:**
 
