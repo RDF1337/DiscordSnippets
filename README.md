@@ -141,6 +141,10 @@
 @import url("https://rdf1337.github.io/DiscordSnippets/CapchaInvertedColors/main.css");
 @import url("https://rdf1337.github.io/DiscordSnippets/ClientTitle/main.css");
 @import url("https://rdf1337.github.io/DiscordSnippets/CollapseIconPositionFix/main.css");
+@import url("https://rdf1337.github.io/DiscordSnippets/CustomDirectMessagesIcon/main.css");
+:root {
+  --dm-icon-url: url("https://example.com/picture.png"); /* Replace with your image URL */
+}
 @import url("https://rdf1337.github.io/DiscordSnippets/DisableActivity/main.css");
 @import url("https://rdf1337.github.io/DiscordSnippets/DisableDiscoveryBtn/main.css");
 @import url("https://rdf1337.github.io/DiscordSnippets/ReadAllBtnAnimation/main.css");
@@ -150,10 +154,5 @@
 @import url("https://rdf1337.github.io/DiscordSnippets/RightPanelRoleLine/main.css");
 @import url("https://rdf1337.github.io/DiscordSnippets/RoundedSquaresInServerList/main.css");
 @import url("https://rdf1337.github.io/DiscordSnippets/TinyStatusArea/main.css");  
-
-@import url("https://rdf1337.github.io/DiscordSnippets/CustomDirectMessagesIcon/main.css");
-:root {
-  --dm-icon-url: url("https://example.com/picture.png"); /* Replace with your image URL */
-}
 @import url("https://rdf1337.github.io/DiscordSnippets/VoicePanelNoChevrons/main.css");
 ```
