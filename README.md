@@ -142,6 +142,6 @@
 
 @import url("https://rdf1337.github.io/DiscordSnippets/CustomDirectMessagesIcon/main.css");
 :root {
-  --dm-icon-url: url("https://example.com/picture.png");
+  --dm-icon-url: url("https://example.com/picture.png"); /* Replace with your image URL */
 }
 ```
