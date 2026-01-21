@@ -110,6 +110,20 @@
 ```css
 @import url("https://rdf1337.github.io/DiscordSnippets/RoundedSquaresInServerList/main.css");
 ```
+
+## CustomDirectMessagesIcon
+**Preview:**
+
+![CustomDirectMessagesIcon Preview](./__previews/10.png)
+
+**Code:**
+
+```css
+@import url("https://rdf1337.github.io/DiscordSnippets/CustomDirectMessagesIcon/main.css");
+:root {
+  --dm-icon-url: url("https://example.com/picture.png"); /* Replace with your image URL */
+}
+```
 ---
 ## All in One to copy
 ```css
@@ -124,5 +138,10 @@
 @import url("https://rdf1337.github.io/DiscordSnippets/RemoveQuickReactBar/main.css");
 @import url("https://rdf1337.github.io/DiscordSnippets/RightPanelRoleLine/main.css");
 @import url("https://rdf1337.github.io/DiscordSnippets/RoundedSquaresInServerList/main.css");
-@import url("https://rdf1337.github.io/DiscordSnippets/TinyStatusArea/main.css");
+@import url("https://rdf1337.github.io/DiscordSnippets/TinyStatusArea/main.css");  
+
+@import url("https://rdf1337.github.io/DiscordSnippets/CustomDirectMessagesIcon/main.css");
+:root {
+  --dm-icon-url: url("https://example.com/picture.png");
+}
 ```
