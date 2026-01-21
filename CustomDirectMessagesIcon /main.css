@@ -1,0 +1,23 @@
+/* default */
+:root {
+  --dm-icon-url: url("https://example.com/test.png");
+}
+
+._6e9f8dce4cc18de3-childWrapper > svg { display: none; }
+
+._6e9f8dce4cc18de3-childWrapper {
+  position: relative;
+  width: 40px;
+  height: 40px;
+}
+
+._6e9f8dce4cc18de3-childWrapper::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-image: var(--dm-icon-url);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  pointer-events: none;
+}
