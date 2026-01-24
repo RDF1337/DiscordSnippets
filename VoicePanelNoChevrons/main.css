@@ -1,7 +1,7 @@
-._37e49614b9f110a9-micButtonParent ._37e49614b9f110a9-buttonChevron {
+.micButtonParent__37e49 .buttonChevronIcon__37e49 {
   display: none !important;
 }
 
-._37e49614b9f110a9-micButtonParent > button {
+.micButtonParent__37e49 > button {
   border-radius: 9999px !important;
 }
