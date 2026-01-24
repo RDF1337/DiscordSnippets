@@ -1,13 +1,12 @@
-.theme-dark .c8ffbb79449f399c-membersGroup {
+.theme-dark .membersGroupHeader_c8ffbb {
   color: hsla(0, 7%, 86%, 0.55);
 }
-.c8ffbb79449f399c-membersGroup {
+.membersGroupHeader_c8ffbb {
   text-align: center;
-  font-size: 0.75em;
   color: #101010;
   position: relative;
 }
-.c8ffbb79449f399c-membersGroup::after {
+.membersGroupHeader_c8ffbb::after {
   position: absolute;
   content: "";
   width: 100%;
@@ -15,7 +14,7 @@
   left: 0%;
   bottom: 0;
 }
-.theme-dark .c8ffbb79449f399c-membersGroup::after {
+.theme-dark .membersGroupHeader_c8ffbb::after {
   background-image: none;
   background-color: rgb(48, 49, 55);
 }
