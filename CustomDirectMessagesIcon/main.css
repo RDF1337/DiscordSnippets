@@ -2,15 +2,15 @@
   --dm-icon-url: url("https://example.com/test.png");
 }
 
-._6e9f8dce4cc18de3-childWrapper > svg { display: none; }
+.childWrapper__6e9f8 > svg { display: none; }
 
-._6e9f8dce4cc18de3-childWrapper {
+.childWrapper__6e9f8 {
   position: relative;
   width: 40px;
   height: 40px;
 }
 
-._6e9f8dce4cc18de3-childWrapper::before {
+.childWrapper__6e9f8::before {
   content: "";
   position: absolute;
   inset: 0;
