@@ -1,32 +1,28 @@
-._6e9f8dce4cc18de3-wrapper {
+.wrapper__6e9f8 {
   border-radius: 12px;
 }
 
-._6e9f8dce4cc18de3-wrapper ._6e9f8dce4cc18de3-childWrapper {
+.wrapper__6e9f8 .childWrapper__6e9f8 {
   border-radius: 12px;
 }
 
-._5bc7ed9d4097f6b5-circleIconButton {
+.circleIconButton__5bc7e {
   border-radius: 12px !important;
 }
 
-._6e9f8dce4cc18de3-childWrapper rect {
+.childWrapper__6e9f8 rect {
   rx: 12px;
 }
 
-._650eb104245d257b-listItem .cc5dd25190031396-wrapper {
+.listItem__650eb .wrapper_cc5dd2 {
   border-radius: 12px;
 }
 
-._650eb104245d257b-listItem .cc5dd25190031396-wrapper .icon__11cf1 {
+.listItem__650eb .wrapper_cc5dd2 .icon__6e9f8 {
   border-radius: 12px;
 }
 
-.dragInner__66313 {
-  border-radius: 12px;
-}
-
-.b18fe29d6fe8dd82-hiddenVisually,
-._48112cbe77dc5022-folderPreviewWrapper {
+.hiddenVisually_b18fe2,
+.folderPreviewWrapper__48112 {
   border-radius: 12px !important;
 }
