@@ -133,7 +133,7 @@
 **Code:**
 
 ```css
-@import url("https://rdf1337.github.io/DiscordSnippets/DisableInviteBtn/main.css");
+@import url("https://rdf1337.github.io/DiscordSnippets/DirectMessagesIcon/main.css");
 ```
 ## DisableInviteBtn
 **Preview:**
@@ -143,7 +143,7 @@
 **Code:**
 
 ```css
-@import url("https://rdf1337.github.io/DiscordSnippets/VoicePanelNoChevrons/main.css");
+@import url("https://rdf1337.github.io/DiscordSnippets/DisableInviteBtn/main.css");
 ```
 ---
 ## All in One to copy
