@@ -143,7 +143,17 @@
 **Code:**
 
 ```css
-@import url("https://rdf1337.github.io/DiscordSnippets/DisableInviteBtn/main.css");
+@import url("https://rdf1337.github.io/DiscordSnippets/DisableWasHere/main.css");
+```
+## DisableWasHere
+**Preview:**
+
+![DisableInviteBtn Preview](./__previews/13.png)
+
+**Code:**
+
+```css
+@import url("https://rdf1337.github.io/DiscordSnippets/DisableWasHere/main.css");
 ```
 ---
 ## All in One to copy
@@ -158,6 +168,7 @@
 @import url("https://rdf1337.github.io/DiscordSnippets/DisableActivity/main.css");
 @import url("https://rdf1337.github.io/DiscordSnippets/DisableDiscoveryBtn/main.css");
 @import url("https://rdf1337.github.io/DiscordSnippets/DisableInviteBtn/main.css");
+@import url("https://rdf1337.github.io/DiscordSnippets/DisableWasHere/main.css");
 @import url("https://rdf1337.github.io/DiscordSnippets/ReadAllBtnAnimation/main.css");
 @import url("https://rdf1337.github.io/DiscordSnippets/RedMuteMicIcon/main.css");
 @import url("https://rdf1337.github.io/DiscordSnippets/RemoveProfileReactions/main.css");
