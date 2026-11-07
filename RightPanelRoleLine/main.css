@@ -1,12 +1,12 @@
-.theme-dark .membersGroupHeader_c8ffbb {
+.theme-dark .membersGroupHeader_86es0b {
   color: hsla(0, 7%, 86%, 0.55);
 }
-.membersGroupHeader_c8ffbb {
+.membersGroupHeader_86es0b {
   text-align: center;
   color: #101010;
   position: relative;
 }
-.membersGroupHeader_c8ffbb::after {
+.membersGroupHeader_86es0b::after {
   position: absolute;
   content: "";
   width: 100%;
@@ -14,7 +14,7 @@
   left: 0%;
   bottom: 0;
 }
-.theme-dark .membersGroupHeader_c8ffbb::after {
+.theme-dark .membersGroupHeader_86es0b::after {
   background-image: none;
   background-color: rgb(48, 49, 55);
 }
