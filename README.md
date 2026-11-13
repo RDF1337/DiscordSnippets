@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:181825,100:2a243d&height=130&section=header&text=DiscordSnippets&fontSize=36&fontColor=f5c2e7&fontAlignY=42&desc=Custom%20CSS%20snippets%20for%20Vencord&descSize=14&descAlignY=68&descColor=cdd6f4" width="100%" />
+</div>
+
 > [!NOTE]
 > A part of my [Discord Vencord Config](https://rdf1337.xyz/discord-vencord) for importing custom css into [Vencord](https://vencord.dev/).
 
